@@ -1,0 +1,4 @@
+# ignore the csv, txt and pdf files. One need to goto Data folder and type the command "tar -xvf stackoverflow.zip" to get all those files
+*.txt
+*.csv
+*.pdf
